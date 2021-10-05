@@ -1,0 +1,46 @@
+[
+    {
+        "ranking": "1",
+        "university": "Stanford Graduate School of Business",
+        "location":" Stanford (CA),United States",    
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Knight_Management_Center.jpg/220px-Knight_Management_Center.jpg"
+    },
+    {
+        "ranking": "2",
+        "university": "Harvard Business School",
+        "location":" Boston (MA),United States",    
+        "image":   "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Harvard_Business_School_shield_logo.svg/150px-Harvard_Business_School_shield_logo.svg.png"
+    },
+    {
+        "ranking": "3",
+        "university": "Penn (Wharton)",
+        "location":" Cambridge (MA),United States",    
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Knight_Management_Center.jpg/220px-Knight_Management_Center.jpg"
+    },
+    {
+        "ranking": "4",
+        "university": " MIT (Sloan)",
+        "location":" Stanford (CA),United States",    
+        "image":  "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/MIT_School_of_Management.svg/180px-MIT_School_of_Management.svg.png"
+    },
+    {
+        "ranking": "5",
+        "university": " Columbia Business School",
+        "location":" New York (NY),United States",    
+        "image":  "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Columbia_Business_School_logo.svg/150px-Columbia_Business_School_logo.svg.png"
+    },
+    {
+        "ranking": "6",
+        "university": "Chicago (Booth)",
+        "location":"Chicago (IL),United States",    
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Knight_Management_Center.jpg/220px-Knight_Management_Center.jpg"
+    }
+    ,
+    {
+        "ranking": "7",
+        "university": "UCLA (Anderson)",
+        "location":"Los Angeles (CA),United States",    
+        "image":   "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Harper_Center_by_Matthew_Bisanz.jpg/220px-Harper_Center_by_Matthew_Bisanz.jpg"
+    }
+    
+]
